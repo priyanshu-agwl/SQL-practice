@@ -18,3 +18,8 @@ https://www.datacamp.com/community/tutorials/sql-tutorial-query
 
 
 
+Books for Sql practice 
+1. SQL cookbook 
+2. Leon wei 
+3. Sql cathy tainamura 
+ 
